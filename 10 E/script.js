@@ -1,0 +1,11 @@
+var num1 = prompt("Please inter first number");
+var num11 = Number(num1);
+var num2 = prompt("Please inter second number");
+var num22 = Number(num2);
+var num3 = num11 + num22;
+alert(num3);
+alert(num1 - num2);
+alert(num1 * num2);
+alert(num1 / num2);
+alert(num1 % num2);
+alert(num1 ** num2);
